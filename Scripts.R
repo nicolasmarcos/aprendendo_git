@@ -1,5 +1,5 @@
 # Setando WD
-setwd("/home/n/Documentos/meu_case_anatel")
+setwd("/home/n/Documentos/branch_dev4/aprendendo_git")
 
 # Instalando pacote necessários
 install.packages("RcolorBrewer",dependencies = T)
