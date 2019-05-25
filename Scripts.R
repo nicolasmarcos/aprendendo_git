@@ -1,5 +1,5 @@
 # Setando WD
-setwd("/media/n/DATA/workspace/Infnet/Bl1/Disciplina 2/Projeto de Bloco/Case Anatel/Case_Anatel")
+setwd("/home/n/Documentos/meu_case_anatel")
 
 # Instalando pacote necessários
 install.packages("RcolorBrewer",dependencies = T)
