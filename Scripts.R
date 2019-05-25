@@ -1,6 +1,8 @@
 # Setando WD
 setwd("/home/n/Documentos/meu_case_anatel")
 
+### Novo comentário da principal
+
 # Instalando pacote necessários
 install.packages("RcolorBrewer",dependencies = T)
 install.packages("plotly",dependencies = T)
